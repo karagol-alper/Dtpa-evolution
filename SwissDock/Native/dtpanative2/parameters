@@ -1,0 +1,9 @@
+Date: Sun 22 Feb 2026 12:52:59 
+Ligand: CC(C)[C@@H](N)C(=O)OCCOCN1C=NC2=C1N=C(N)NC2=O
+Method: AC
+Target: dtpanative.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 2
+Box size: 50 36 36
+Box center: 0.0 -18.0 18.0
