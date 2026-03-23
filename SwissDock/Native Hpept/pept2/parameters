@@ -1,0 +1,9 @@
+Date: Fri 13 Mar 2026 16:57:41 
+Ligand: CC(C)[C@@H](N)C(=O)OCCOCN1C=NC2=C1N=C(N)NC2=O
+Method: AC
+Target: humanpept1.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 1
+Box size: 55 26 25
+Box center: 4.0 18.0 -16.0
