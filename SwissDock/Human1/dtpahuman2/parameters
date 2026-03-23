@@ -1,0 +1,9 @@
+Date: Wed 25 Feb 2026 10:12:57 
+Ligand: CC(C)[C@@H](N)C(=O)OCCOCN1C=NC2=C1N=C(N)NC2=O
+Method: AC
+Target: dtpa_human.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 2
+Box size: 30 70 30
+Box center: 16.0 0.0 15.0
